@@ -78,6 +78,7 @@
 Soy Analista programador universitario en la Universidad Nacional de Jujuy y alumno de la carrera de desarrollador web Full Stack en #SoyHenry.. <a href="https://www.instagram.com/bruno8a_10/?hl=es" target="_blank">!</a>
 
 
+<a target="_blank" href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
 
 
 ### Github Stats:
