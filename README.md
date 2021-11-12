@@ -6,8 +6,8 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/bruno-ochoa-87666a1b6/", 
-      "Resume"   : "https://veromoreno.github.io/",
-      "IG"       : "https://www.instagram.com/veritechie"
+      "Resume"   : "https://github.com/bruno8a10",
+      "IG"       : "https://www.instagram.com/bruno8a_10/?hl=es"
      }
  }
 ```
