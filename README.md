@@ -5,7 +5,7 @@
    “role” : “Fullstack Dev”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
+      "Linkedin" : "https://www.linkedin.com/in/bruno-ochoa-87666a1b6/", 
       "Resume"   : "https://veromoreno.github.io/",
       "IG"       : "https://www.instagram.com/veritechie"
      }
