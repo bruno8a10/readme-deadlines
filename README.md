@@ -164,7 +164,7 @@ Soy Analista programador universitario en la Universidad Nacional de Jujuy y alu
 
 
 ### Github Stats:
-
+(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno8a10&theme=radical&card_width=450em)](bruno8a10/readme-deadlines"/></td>
