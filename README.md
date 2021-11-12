@@ -79,12 +79,6 @@ Soy Analista programador universitario en la Universidad Nacional de Jujuy y alu
 
 <a target="_blank" href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
 
-
-
-### <a href="https://www.instagram.com/bruno8a_10/?hl=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/bruno8a_10/?hl=e" target="_blank">Bruno Ochoa</a>
-Soy Analista programador universitario en la Universidad Nacional de Jujuy y alumno de la carrera de desarrollador web Full Stack en #SoyHenry.. <a href="https://www.instagram.com/bruno8a_10/?hl=es" target="_blank">!</a>
-
-
 ### Github Stats
 (Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 
@@ -95,14 +89,3 @@ Soy Analista programador universitario en la Universidad Nacional de Jujuy y alu
   </tr>
 </table>
 
-### Desglose del desarrollo semanal
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 47 mins  █████████████████████▓░░░   86.74 % 
-CSS          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-```
-<!--END_SECTION:waka-->
